@@ -1,1 +1,1 @@
-tea install Troll:{ссылка_или_имя_файла}
+tea install Troll:{script.py}
